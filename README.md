@@ -13,6 +13,14 @@ Telco Customer Churn Analysis is a Streamlit-based application designed to explo
 
 ## Installation
 
+Install Dependencies:
+pip install -r requirements.txt
+
+Run the Application:
+streamlit run app/stapp1.py
+
+Note: Replace the groq key, openai key and .csv file path 
+
 ### Prerequisites
 
 - Python 3.8+
@@ -22,5 +30,6 @@ Telco Customer Churn Analysis is a Streamlit-based application designed to explo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/telco-customer-churn-analysis.git
+   git clone https://github.com/ayaan7m/telco-customer-churn-analysis.git
    cd telco-customer-churn-analysis
+   
